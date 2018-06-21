@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="47" started-at="2012-01-10T15:47:15Z" finished-at="2012-01-10T15:47:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="47" started-at="2012-01-10T15:47:15Z" finished-at="2012-01-10T15:47:15Z">
+      <class name="com.baishui.testng.Test001">
+        <test-method status="PASS" signature="testBeforSuite()[pri:0, instance:com.baishui.testng.Test001@1e12f6d]" name="testBeforSuite" is-config="true" duration-ms="15" started-at="2012-01-10T15:47:15Z" finished-at="2012-01-10T15:47:15Z">
+        </test-method>
+        <test-method status="PASS" signature="testBeforeTest()[pri:0, instance:com.baishui.testng.Test001@1e12f6d]" name="testBeforeTest" is-config="true" duration-ms="0" started-at="2012-01-10T15:47:15Z" finished-at="2012-01-10T15:47:15Z">
+        </test-method>
+        <test-method status="PASS" signature="testBeforeMethod()[pri:0, instance:com.baishui.testng.Test001@1e12f6d]" name="testBeforeMethod" is-config="true" duration-ms="0" started-at="2012-01-10T15:47:15Z" finished-at="2012-01-10T15:47:15Z">
+        </test-method>
+        <test-method status="PASS" signature="testExecute1()[pri:0, instance:com.baishui.testng.Test001@1e12f6d]" name="testExecute1" duration-ms="16" started-at="2012-01-10T15:47:15Z" finished-at="2012-01-10T15:47:15Z">
+        </test-method>
+        <test-method status="PASS" signature="testExecute2()[pri:0, instance:com.baishui.testng.Test001@1e12f6d]" name="testExecute2" duration-ms="0" started-at="2012-01-10T15:47:15Z" finished-at="2012-01-10T15:47:15Z">
+        </test-method>
+        <test-method status="PASS" signature="testBeforeMethod()[pri:0, instance:com.baishui.testng.Test001@1e12f6d]" name="testBeforeMethod" is-config="true" duration-ms="0" started-at="2012-01-10T15:47:15Z" finished-at="2012-01-10T15:47:15Z">
+        </test-method>
+        <test-method status="PASS" signature="testAfterMethod()[pri:0, instance:com.baishui.testng.Test001@1e12f6d]" name="testAfterMethod" is-config="true" duration-ms="0" started-at="2012-01-10T15:47:15Z" finished-at="2012-01-10T15:47:15Z">
+        </test-method>
+        <test-method status="PASS" signature="testAfterMethod()[pri:0, instance:com.baishui.testng.Test001@1e12f6d]" name="testAfterMethod" is-config="true" duration-ms="0" started-at="2012-01-10T15:47:15Z" finished-at="2012-01-10T15:47:15Z">
+        </test-method>
+        <test-method status="PASS" signature="testAfterTest()[pri:0, instance:com.baishui.testng.Test001@1e12f6d]" name="testAfterTest" is-config="true" duration-ms="0" started-at="2012-01-10T15:47:15Z" finished-at="2012-01-10T15:47:15Z">
+        </test-method>
+        <test-method status="PASS" signature="testAfterSuite()[pri:0, instance:com.baishui.testng.Test001@1e12f6d]" name="testAfterSuite" is-config="true" duration-ms="0" started-at="2012-01-10T15:47:15Z" finished-at="2012-01-10T15:47:15Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

@@ -1,0 +1,5 @@
+2012-05-14 12:46:36,265 [FATAL] jp.co.fuji.xerox.public_log.CoreLogger.writeLog(CoreLogger.java:143) 0 [UserID-UserIP] [accessLogger fatal ログ]
+2012-05-14 12:46:36,265 [ERROR] jp.co.fuji.xerox.public_log.CoreLogger.writeLog(CoreLogger.java:144) 0 [UserID-UserIP] [accessLogger error ログ]
+2012-05-14 12:46:36,265 [WARN ] jp.co.fuji.xerox.public_log.CoreLogger.writeLog(CoreLogger.java:145) 0 [UserID-UserIP] [accessLogger warn ログ]
+2012-05-14 12:46:36,265 [INFO ] jp.co.fuji.xerox.public_log.CoreLogger.writeLog(CoreLogger.java:146) 0 [UserID-UserIP] [accessLogger info ログ]
+2012-05-14 12:46:36,265 [DEBUG] jp.co.fuji.xerox.public_log.CoreLogger.writeLog(CoreLogger.java:147) 0 [UserID-UserIP] [accessLogger debug ログ]

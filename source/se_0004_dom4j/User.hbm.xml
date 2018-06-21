@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<hibernate-mapping>
+   <class name="com.baishui.User" >
+     <property name="username"></property>
+     <property name="password"></property>
+    </class> 
+</hibernate-mapping>

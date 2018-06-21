@@ -1,0 +1,5 @@
+2012-05-14 12:46:36,265 [FATAL] jp.co.fuji.xerox.public_log.CoreLogger.writeLog(CoreLogger.java:137) 0 [UserID-UserIP] [systemLogger fatal Œn?“úŽu]
+2012-05-14 12:46:36,265 [ERROR] jp.co.fuji.xerox.public_log.CoreLogger.writeLog(CoreLogger.java:138) 0 [UserID-UserIP] [systemLogger error Œn?“úŽu]
+2012-05-14 12:46:36,265 [WARN ] jp.co.fuji.xerox.public_log.CoreLogger.writeLog(CoreLogger.java:139) 0 [UserID-UserIP] [systemLogger warn Œn?“úŽu]
+2012-05-14 12:46:36,265 [INFO ] jp.co.fuji.xerox.public_log.CoreLogger.writeLog(CoreLogger.java:140) 0 [UserID-UserIP] [systemLogger info Œn?“úŽu]
+2012-05-14 12:46:36,265 [DEBUG] jp.co.fuji.xerox.public_log.CoreLogger.writeLog(CoreLogger.java:141) 0 [UserID-UserIP] [systemLogger debug Œn?“úŽu]
